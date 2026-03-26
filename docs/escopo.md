@@ -24,15 +24,6 @@ Segurança: Concentração de gases inflamáveis ​​e fumaça via sensor MQ-2
 
 ## Estrutura de Tópicos MQTT
 
-| Tópico | Descrição | Publisher | Subscriber |
-
-|--------|-----------|-----------|------------|
-
-| escola/grupo01/motor/temperatura | Temperatura em °C | ESP32 | Dashboard |
-
-| escola/grupo01/motor/status | ONLINE / OFFLINE (LWT) | ESP32 | Dashboard |
-
-| escola/grupo01/motor/alerta | Alertas críticos | ESP32 | Dashboard |
 | estufa/grupoH/ambiente/temperatura |  Temperatura atual      | ESP32 | Dashboard |    
 | estufa/grupoH/ambiente/umidade     |  Umidade relativa       | ESP32 | Dashboard |
 | estufa/grupoH/segurança/gas        |  Nivel_gases_detectados | ESP32 | Dashboard |
