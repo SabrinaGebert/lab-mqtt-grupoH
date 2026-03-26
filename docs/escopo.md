@@ -2,7 +2,7 @@
 
 ## Integrantes
 
--Sabrina Gebert - Tecnica em Eletrônica 
+- Sabrina Gebert - Tecnica em Eletrônica 
 
 
 ## Problema
@@ -18,8 +18,8 @@ Temperatura/umidade e gases inflamáveis.
 
 ## Sensor / Dado
 
-Temperatura e Umidade relativa via sensor DHT22 (Faixa: 0°C a 80°C) no ESP32
-Segurança: Concentração de gases inflamáveis ​​e fumaça via sensor MQ-2 (Leitura analógica de 0 a 4095).
+- Temperatura e Umidade relativa via sensor DHT22 (Faixa: 0°C a 80°C) no ESP32
+- Segurança: Concentração de gases inflamáveis ​​e fumaça via sensor MQ-2 (Leitura analógica de 0 a 4095).
 
 
 ## Estrutura de Tópicos MQTT
