@@ -16,10 +16,11 @@ Temperatura/umidade e gases inflamáveis.
 
 
 
-## Sensor / Dado
+## Sensor / Dados
 
 - Temperatura e Umidade relativa via sensor DHT22 (Faixa: 0°C a 80°C) no ESP32
 - Segurança: Concentração de gases inflamáveis ​​e fumaça via sensor MQ-2 (Leitura analógica de 0 a 4095).
+- LCD 1602: Leituras dos sensores utilizados e alerta de critico.
 
 
 ## Estrutura de Tópicos MQTT
@@ -38,6 +39,7 @@ Temperatura/umidade e gases inflamáveis.
 - 0 a 300: Ar limpo (leitura de base)
 - 300 a 600: Presença de nível de gases ou vapores
 - 700 ou +: Indica uma concentração significativa de gases inflamáveis ​​ou fumaça.
+- LCD1602: O monitoramento será feito através de um display LCD1602, que apresentará as medições dos sensores e emitirá alertas visuais imediatos sempre que uma variável atingir níveis críticos
 
 
 ## Hardware / Software planejado
