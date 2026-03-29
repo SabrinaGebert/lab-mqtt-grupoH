@@ -11,9 +11,9 @@
 
 
 ## O que será monitorado
-
-Temperatura/umidade e gases inflamáveis.
-
+- Temperatura
+- Umidade
+- Gases Inflamaveis
 
 
 ## Sensor / Dados
@@ -51,7 +51,3 @@ Temperatura/umidade e gases inflamáveis.
 - Subscriber: [Terminal / Node-RED / outro]
 
 
-
-## Evolução planejada
-
-[Se houver ambição de ir além do mínimo — dashboard visual, histórico, etc.]
