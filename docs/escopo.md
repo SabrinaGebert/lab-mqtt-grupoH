@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-- Sabrina Gebert - Tecnica em Eletrônica 
+- Sabrina Gebert - Tecnico em Eletrônica 
 
 
 ## Problema
@@ -25,11 +25,11 @@
 
 ## Estrutura de Tópicos MQTT
 
-| estufa/grupoH/ambiente/temperatura |  Temperatura atual      | ESP32 | Dashboard |    
-| estufa/grupoH/ambiente/umidade     |  Umidade relativa       | ESP32 | Dashboard |
-| estufa/grupoH/segurança/gas        |  Nivel_gases_detectados | ESP32 | Dashboard |
-| estufa/grupoH/controle/aquecedor   |  On / Off               | ESP32 | Dashboard |
-| estufa/grupoH/alerta/critico       |  Erro_e_emergencia      | ESP32 | Dashboard |
+- estufa/grupoH/ambiente/temperatura |  Temperatura atual      | ESP32 | Dashboard |  
+- estufa/grupoH/ambiente/umidade     |  Umidade relativa       | ESP32 | Dashboard |
+- estufa/grupoH/segurança/gas        |  Nivel_gases_detectados | ESP32 | Dashboard |
+- estufa/grupoH/controle/aquecedor   |  On / Off               | ESP32 | Dashboard |
+- estufa/grupoH/alerta/critico       |  Erro_e_emergencia      | ESP32 | Dashboard |
 
 
 ## Resultado Esperado
