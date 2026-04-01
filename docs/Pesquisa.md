@@ -36,3 +36,14 @@ Estabelece a necessidade de ventilação eficiente para que o trabalhador não i
 As NRs são leis gerais, mas os detalhes técnicos de "como fazer" estão nas NBRs:
 NBR 14577: Trata especificamente de instalações de pintura e os requisitos de segurança para cabines e estufas.
 NBR IEC 60079: Fundamental para equipamentos em Atmosferas Explosivas (componentes blindados ou intrinsecamente seguros).
+
+## Padrão Industrial (Pesquisa feita em Portais de Engenharia e Guias Tecnicos)
+- https://www.controleinstrumentacao.com.br/
+  - Este portal detalha as tecnologias usadas no chão de fábrica, desde o hardware até o software.
+
+- https://www.isasp.org.br/
+  - A ISA é quem cria as normas mundiais de automação. O site deles é a maior autoridade para listar o que é "padrão".
+
+- https://www.google.com/search?q=https://www.schmersal.com.br/segmentos/pintura-e-revestimento/
+  - A Schmersal é uma das maiores fabricantes de componentes de segurança do mundo. Eles têm um guia que especifica quase tudo o que uma estufa precisa ter para seguir a NR-12.
+
