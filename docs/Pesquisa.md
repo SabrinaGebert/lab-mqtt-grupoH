@@ -8,4 +8,31 @@
 - https://pt.scribd.com/document/615707173/NBR-13058-Embalagens-Flexiveis-Analise-de-Solventes-Residuais#:~:text=4.2%20Solventes%20referenciais%204.2.1%20Hidrocarbonetos:%20a)%20alif%C3%A1tico:%20hexano;%20heptano;%20b)%20arom%C3%A1ticos:%20tolueno.
     - Hidrocarbonetos Alifáticos: Hexano e Heptano (comuns em solventes de limpeza e diluição).
     - Hidrocarbonetos Aromáticos: Tolueno (altamente volátil e inflamável).
-- 
+- Gases e Vapores ComunsAs tintas líquidas utilizam diferentes solventes. Abaixo, os dados de inflamabilidade dos mais comuns:
+    - Solvente,LEL (% por volume no ar),Ponto de Fulgor (Flash Point)
+    - Xileno,1.1%,27°C - 32°C.
+    - Tolueno,1.1%,4°C.
+    - Acetona,2.5%,-20°C.
+    - Álcool Isopropílico,2.0%,12°C.
+    - Metiletilcetona (MEK),1.4%,-9°C.
+ 
+## Normas NR que são utilizadas: 
+- NR-12 (Segurança no Trabalho em Máquinas e Equipamentos)
+Esta é a norma base para a construção e operação da estufa. Ela exige:
+Sistemas de Intertravamento: A estufa não deve funcionar se a exaustão estiver desligada.
+Prevenção de Explosão: Dispositivos que evitem o acúmulo de gases inflamáveis.
+Parada de Emergência: Botões acessíveis para interrupção imediata do ciclo de aquecimento.
+
+- NR-20 (Segurança e Saúde no Trabalho com Inflamáveis e Combustíveis)
+Como a pintura líquida utiliza solventes, a NR-20 é vital. Ela trata da:
+Classificação de Áreas: Define as zonas de risco ao redor e dentro da estufa.
+Sinalização e Controle de Fontes de Ignição: Proíbe qualquer elemento que possa gerar faíscas em áreas onde há vapores de solventes.
+
+- NR-15 (Atividades e Operações Insalubres)
+Foca na saúde do operador. Ela define os Limites de Tolerância para os vapores orgânicos (como Xileno e Tolueno).
+Estabelece a necessidade de ventilação eficiente para que o trabalhador não inale concentrações perigosas de gases ao abrir ou operar a estufa.
+
+- Normas Técnicas Complementares (ABNT)
+As NRs são leis gerais, mas os detalhes técnicos de "como fazer" estão nas NBRs:
+NBR 14577: Trata especificamente de instalações de pintura e os requisitos de segurança para cabines e estufas.
+NBR IEC 60079: Fundamental para equipamentos em Atmosferas Explosivas (componentes blindados ou intrinsecamente seguros).
