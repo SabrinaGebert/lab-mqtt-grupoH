@@ -34,7 +34,7 @@
 ## Arquitetura e Classificação Cloud 
 - O sistema é estruturado em quatro camadas: Dispositivo (Edge), Rede, Broker e Aplicação.
 - Classificação Cloud: O projeto utiliza IaaS (Infrastructure as a Service).
-- Justificativa: O Broker MQTT (Mosquitto) foi instalado e configurado manualmente em uma VPS (Servidor Virtual), permitindo controle total sobre portas e segurança
+- Justificativa: O Broker MQTT (Mosquitto) foi instalado e configurado manualmente em uma VPS, permitindo controle total sobre portas e segurança
 
 ## Resultado Esperado
 
